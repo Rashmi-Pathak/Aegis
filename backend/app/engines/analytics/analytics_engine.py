@@ -1,4 +1,4 @@
-from typing import Dict, Any, List
+from typing import Dict, Any, List, Optional
 import pandas as pd
 import numpy as np
 from app.ingestion.canonical_mapper import CanonicalMapper
